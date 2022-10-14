@@ -1,0 +1,15 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+}
+h1{
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(20, 155, 132), 0 0 1em blue, 0 0 0.2em blue;
+    font-weight: 300;
+    font-size: xx-large;
+    text-decoration: overline;
+    background-color: rgba(75, 147, 168, 0.568);
+    color: rgb(0, 0, 0);
+}
